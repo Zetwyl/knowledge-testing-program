@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MyQuiz.Tests/MyQuiz.Tests.csproj" Id="b9e570bc-5ffb-4391-b7dd-63d4ca05782c" />
+  <Project Path="MyQuiz.WinForms/MyQuiz.WinForms.csproj" Id="ed59f809-2ad9-4d44-bebd-2c6ccc3cab08" />
+  <Project Path="MyQuiz.Core/MyQuiz.Core.csproj" Id="e31ca10d-4822-4045-a442-88e2fa5c4169" />
+</Solution>
